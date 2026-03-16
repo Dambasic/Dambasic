@@ -100,6 +100,12 @@ Extracts insights from WhatsApp chats like **activity trends, user stats, and se
 
 ---
 
+## 💻 Languages Contribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dambasic&layout=compact&theme=tokyonight" />
+</p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
