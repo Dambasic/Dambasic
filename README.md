@@ -112,7 +112,7 @@ Extracts insights from WhatsApp chats like **activity trends, user stats, and se
 
 📧 Email: **[paarthuttekar@gmail.com](mailto:paarthuttekar@gmail.com)**
 
-💼 LinkedIn: *(https://www.linkedin.com/in/paarthuttekar/)*
+💼 LinkedIn: **https://www.linkedin.com/in/paarthuttekar/**
 
 🐙 GitHub: [https://github.com/dambasic](https://github.com/dambasic)
 
