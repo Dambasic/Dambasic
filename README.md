@@ -94,8 +94,6 @@ Extracts insights from WhatsApp chats like **activity trends, user stats, and se
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dambasic&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dambasic&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
