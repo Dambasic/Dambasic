@@ -64,7 +64,7 @@
 
 # 📌 Featured Projects
 
-## 🔐 Phishing Detection & Social Engineering Prevention
+## 🔐 Phishing Detection & Social Engineering Prevention (Currently Working)
 
 AI-based browser protection system that detects phishing websites in real time.
 
