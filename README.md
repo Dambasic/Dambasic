@@ -61,6 +61,8 @@ Developed a real-time web application to automate hospital bed allocation using 
 
 **Tech:** React.js | Node.js | Express.js | MongoDB
 
+---
+
 ## 📊 TubeInsight – YouTube Video Sentiment Analyzer
 
 Analyzes YouTube comments and detects **viewer sentiment using NLP**.
