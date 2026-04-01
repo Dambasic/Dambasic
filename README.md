@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Paarth Uttekar
 
-### 🚀 AI & Machine Learning Enthusiast | Cybersecurity Learner | Full-Stack Developer
+### 🚀 AI & Machine Learning Enthusiast | Full-Stack Developer
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Student;Cybersecurity+Explorer;Full+Stack+Developer;Building+Real+World+Tech+Projects;Future+AI+Engineer+in+Japan&center=true&width=500&height=50">
@@ -55,7 +55,11 @@
 ---
 
 # 📌 Featured Projects
+## 💬 BedSmart – Intelligent Bed Allocation System
 
+Developed a real-time web application to automate hospital bed allocation using smart assignment logic, enabling efficient resource management and live tracking through an interactive dashboard.
+
+**Tech:** React.js | Node.js | Express.js | MongoDB
 
 ## 📊 TubeInsight – YouTube Video Sentiment Analyzer
 
