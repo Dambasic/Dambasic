@@ -54,23 +54,8 @@
 
 ---
 
-### 🔐 Cybersecurity
-
-⚡ Phishing Detection
-⚡ Web Security (XSS, CSRF)
-⚡ Kali Linux
-
----
-
 # 📌 Featured Projects
 
-## 🔐 Phishing Detection & Social Engineering Prevention (Currently Working)
-
-AI-based browser protection system that detects phishing websites in real time.
-
-**Tech:** React.js | Node.js | Python | Machine Learning | MongoDB
-
----
 
 ## 📊 TubeInsight – YouTube Video Sentiment Analyzer
 
