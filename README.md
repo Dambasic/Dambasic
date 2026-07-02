@@ -37,7 +37,6 @@
 
 ### 🤖 AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
