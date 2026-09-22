@@ -93,25 +93,6 @@ A cybersecurity platform designed to analyze suspicious emails, detect potential
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `FastAPI` `Python` `Machine Learning` `Leaflet`
 
----
-
-## 🏥 BedSmart
-
-### Intelligent Hospital Bed Allocation System
-
-A real-time web application designed to automate hospital bed allocation and improve resource management.
-
-### Highlights
-
-* 🛏️ Smart bed assignment
-* 📊 Real-time dashboard
-* 🔄 Live availability tracking
-* ⚡ Automated allocation logic
-* 👨‍⚕️ Resource management
-
-### Technology
-
-`React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
