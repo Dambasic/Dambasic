@@ -266,30 +266,6 @@ Interested in the complete product lifecycle:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dambasic&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dambasic&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dambasic&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dambasic&layout=compact&hide_border=true&theme=tokyonight"
-    height="180"
-  />
-</p>
-
 ---
 
 # 🔥 Contribution Streak
@@ -306,10 +282,20 @@ Interested in the complete product lifecycle:
 # 🐍 Contribution Journey
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Dambasic/Dambasic/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Dambasic/Dambasic/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Dambasic/Dambasic/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Dambasic/Dambasic/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
