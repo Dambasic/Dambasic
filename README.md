@@ -266,6 +266,24 @@ Interested in the complete product lifecycle:
 
 ---
 
+# 📊 GitHub
+
+<p align="center">
+
+<a href="https://github.com/Dambasic">
+<img src="https://img.shields.io/github/followers/Dambasic?style=for-the-badge&label=Followers"/>
+</a>
+
+<a href="https://github.com/Dambasic?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dambasic?tab=stars">
+<img src="https://img.shields.io/badge/Stars-Explore-yellow?style=for-the-badge"/>
+</a>
+
+</p>
+
 ---
 
 # 🔥 Contribution Streak
