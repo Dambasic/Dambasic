@@ -275,14 +275,6 @@ Interested in the complete product lifecycle:
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dambasic&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ---
 
 # 📊 GitHub Activity
@@ -322,32 +314,6 @@ Interested in the complete product lifecycle:
 
 ---
 
-# 🚀 2026 Focus
-
-```text
-AI / ML
-├── Machine Learning
-├── NLP
-├── AI Applications
-└── Intelligent Automation
-
-Cybersecurity
-├── Threat Detection
-├── Email Security
-├── Digital Forensics
-└── AI Security
-
-Software Engineering
-├── Full-Stack Development
-├── Backend Architecture
-├── APIs
-└── Cloud Deployment
-
-Career
-├── Open Source
-├── AI Research
-├── Production AI
-└── AI Engineering 🇯🇵
 
 # 🌐 Let's Connect
 
