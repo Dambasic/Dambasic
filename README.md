@@ -283,37 +283,71 @@ Interested in the complete product lifecycle:
 
 ---
 
-# 📈 Contribution Graph
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dambasic&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dambasic&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dambasic&layout=compact&hide_border=true&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dambasic&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dambasic&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Dambasic/Dambasic/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+# 🚀 2026 Focus
 
 ```text
-☑ Build real-world AI applications
-☑ Improve full-stack development
-☑ Explore cybersecurity
-☐ Build advanced AI security systems
-☐ Contribute to open source
-☐ Build production-grade AI products
-☐ Strengthen DSA & system design
-☐ Explore AI research
-☐ Work toward becoming an AI Engineer
-```
+AI / ML
+├── Machine Learning
+├── NLP
+├── AI Applications
+└── Intelligent Automation
 
----
+Cybersecurity
+├── Threat Detection
+├── Email Security
+├── Digital Forensics
+└── AI Security
+
+Software Engineering
+├── Full-Stack Development
+├── Backend Architecture
+├── APIs
+└── Cloud Deployment
+
+Career
+├── Open Source
+├── AI Research
+├── Production AI
+└── AI Engineering 🇯🇵
 
 # 🌐 Let's Connect
 
